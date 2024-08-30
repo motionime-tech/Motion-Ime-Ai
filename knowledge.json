@@ -27,6 +27,20 @@
       "description": "MORIES adalah Moderator di bawah First Human, bertanggung jawab atas pengelolaan komunitas dan memastikan diskusi berjalan dengan baik."
     }
   },
+  "guardian_specialists": {
+    "impact": {
+      "name": "Impact",
+      "discord_id": "380992263213547523",
+      "role": "Guardian Specialist",
+      "description": "Moderator Specialist of Motion Ime."
+    },
+    "putra": {
+      "name": "Putra",
+      "discord_id": "393378954070982656",
+      "role": "Guardian Specialist",
+      "description": "Moderator Specialist of Motion Ime."
+    }
+  },
   "events": {
     "upcoming": [
       {
