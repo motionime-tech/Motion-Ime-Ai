@@ -1,0 +1,91 @@
+{
+  "history": {
+    "motion_ime": {
+      "established": "2023",
+      "description": "Motion Ime adalah sebuah proyek yang didirikan oleh Windah Basudara dan Rio Djaja, berfokus pada pengembangan merchandise berbasis teknologi pencitraan 3D yang unik. Motion Ime juga telah berkembang menjadi salah satu komunitas online terbesar di Indonesia."
+    }
+  },
+  "owner": {
+    "windah_basudara": {
+      "name": "Windah Basudara",
+      "discord_id": "551908379950317583",
+      "role": "First Human",
+      "description": "Windah Basudara adalah pendiri Motion Ime, seorang YouTuber dan streamer terkenal di Indonesia yang dikenal karena membangun komunitas digital yang sangat aktif."
+    },
+    "rio_djaja": {
+      "name": "Rio Djaja",
+      "discord_id": "596250349346488320",
+      "role": "Co-Founder",
+      "description": "Rio Djaja adalah Co-Founder Motion Ime, yang bersama Windah Basudara mengembangkan proyek ini dari awal, berfokus pada inovasi dalam teknologi dan komunitas."
+    }
+  },
+  "moderators": {
+    "mories": {
+      "name": "MORIES",
+      "discord_id": "878203638890250261",
+      "role": "Moderator",
+      "description": "MORIES adalah Moderator di bawah First Human, bertanggung jawab atas pengelolaan komunitas dan memastikan diskusi berjalan dengan baik."
+    }
+  },
+  "events": {
+    "upcoming": [
+      {
+        "name": "Motion Ime Fan Gathering",
+        "date": "2024-05-15",
+        "description": "Acara berkumpulnya para penggemar Windah Basudara dan anggota komunitas Motion Ime, dengan berbagai kegiatan seperti sesi tanya jawab, mini games, dan nobar."
+      }
+    ],
+    "past": [
+      {
+        "name": "Motion Ime Fest 2023",
+        "date": "2023-12-02",
+        "description": "Festival amal yang diadakan oleh Motion Ime untuk mendukung masyarakat di Papua. Acara ini diisi dengan berbagai kegiatan menarik termasuk pameran game, kompetisi cosplay, dan pertunjukan musik."
+      }
+    ],
+    "winners": [
+      {
+        "event_name": "Motion Ime Fest 2023 Cosplay Competition",
+        "winner": "Jane Doe",
+        "prize": "Best Cosplay Award"
+      }
+    ]
+  },
+  "categories": {
+    "channels": [
+      {
+        "name": "▬▬▬▬Community▬▬▬▬",
+        "description": "Kategori ini mencakup saluran untuk diskusi umum dan interaksi sosial dalam komunitas Motion Ime.",
+        "channels": [
+          {
+            "name": "💭┃ngobrol-bebas",
+            "channel_id": "1236271755576872991"
+          },
+          {
+            "name": "💭┃ngobrol-bebas-2",
+            "channel_id": "1236271783259148308"
+          }
+        ]
+      }
+    ],
+    "forums": [
+      {
+        "name": "Fan Art",
+        "description": "Forum bagi penggemar untuk berbagi karya seni yang terinspirasi dari Windah Basudara dan komunitas Motion Ime."
+      },
+      {
+        "name": "Community Feedback",
+        "description": "Tempat untuk memberikan saran dan masukan terkait pengembangan komunitas Motion Ime."
+      }
+    ]
+  },
+  "external_knowledge": {
+    "gaming_trends": {
+      "definition": "Tren gaming terbaru mencakup perkembangan dalam industri video game, seperti rilis game baru, teknologi gaming, dan komunitas gaming global.",
+      "popular_games": [
+        "Genshin Impact",
+        "Valorant",
+        "Honkai Star Rail"
+      ]
+    }
+  }
+}
