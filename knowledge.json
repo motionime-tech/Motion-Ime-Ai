@@ -76,11 +76,38 @@
         "channels": [
           {
             "name": "💭┃ngobrol-bebas",
-            "channel_id": "1236271755576872991"
+            "channel_id": "1236271755576872991",
+            "description": "Channel untuk tempat ngobrol"
           },
           {
             "name": "💭┃ngobrol-bebas-2",
-            "channel_id": "1236271783259148308"
+            "channel_id": "1236271783259148308",
+            "description": "Channel untuk tempat ngobrol ke 2"
+          },
+          {
+            "name": "📷┃media-bebas",
+            "channel_id": "1236314525280501852",
+            "description": "Channel untuk mengirim media video/foto random"
+          },
+          {
+            "name": "📸┃fotografi",
+            "channel_id": "1236343242044211282",
+            "description": "Channel yang khusus membahas dan berbagi seputar fotografi."
+          },
+          {
+            "name": "🎥┃videografi",
+            "channel_id": "1236343301620367380",
+            "description": "Channel untuk diskusi dan berbagi seputar videografi."
+          },
+          {
+            "name": "🔝┃levels",
+            "channel_id": "1236314108866072636",
+            "description": "Channel untuk membahas dan menampilkan level pengguna dalam komunitas."
+          },
+          {
+            "name": "🚨┃report",
+            "channel_id": "1236313727884591185",
+            "description": "Channel untuk melaporkan pelanggaran yang dilakukan oleh anggota komunitas."
           }
         ]
       }
