@@ -9,6 +9,15 @@
       "recovery": "Motion ime dinyatakan sepenuhnya permanenly deleted. Namun, dengan antusiasme para Guardian & Moderator yang tinggi, akhirnya fight back Motion Ime dengan server baru & semangat yang membara."
     }
   },
+  "server": {
+    "server_id": "1204973330449567774",
+    "description": "Motion Ime is one of the largest discord community in Indonesia. Join for News, Chat, Party, Event, Nobar & More!🪐",
+    "region": "Jakarta",
+    "owner": {
+      "name": "Rio Djaja",
+      "owner_id": "596250349346488320"
+    }
+  },
   "owner": {
     "windah_basudara": {
       "name": "Windah Basudara",
@@ -23,7 +32,7 @@
       "description": "Rio Djaja adalah Co-Founder Motion Ime, yang bersama Windah Basudara mengembangkan proyek ini dari awal, berfokus pada inovasi dalam teknologi dan komunitas."
     }
   },
-  "moderators": {
+  "moderator": {
     "mories": {
       "name": "MORIES",
       "discord_id": "878203638890250261",
@@ -31,7 +40,7 @@
       "description": "MORIES adalah Moderator di bawah First Human, bertanggung jawab atas pengelolaan komunitas dan memastikan diskusi berjalan dengan baik."
     }
   },
-  "guardian_specialists": {
+  "guardian_specialist": {
     "impact": {
       "name": "Impact",
       "discord_id": "380992263213547523",
