@@ -92,6 +92,34 @@
       }
     ]
   },
+  "social_media": {
+    "JKT48": "https://www.instagram.com/motion.jkt48",
+    "AI Art": "https://www.instagram.com/ai.motion.official",
+    "Technology": "https://www.instagram.com/motionime.tech",
+    "Football": "https://www.instagram.com/motionimefootball",
+    "EaFC": "https://www.instagram.com/motion.eafc",
+    "Cosplay": "https://www.instagram.com/motion.cosplay",
+    "Basketball": "https://www.instagram.com/motionimebasketball",
+    "Growtopia": "https://www.instagram.com/motiontopia",
+    "English": "https://www.instagram.com/motion.english",
+    "Korean": "https://www.instagram.com/motionimekorcom",
+    "Motion Ime Festival": "https://www.instagram.com/motionimefest",
+    "Fighting": "https://www.instagram.com/motion.fgc",
+    "Anime": "https://www.instagram.com/motion.anime",
+    "Minecraft": "https://www.instagram.com/motion.minecraft",
+    "MOF": "https://www.instagram.com/motionoffriday",
+    "Hoyoverse": "https://www.instagram.com/motion.hoyo",
+    "Horror": "https://www.instagram.com/motion.horror",
+    "Blindate": "https://www.instagram.com/motion.blindate",
+    "Lethal Company": "https://www.instagram.com/motionimecompany",
+    "Tournament": "https://www.instagram.com/motion.tournament",
+    "Motion Ime Radio": "https://www.instagram.com/motionimeradio",
+    "ProClub VFC": "https://www.instagram.com/motionproclub",
+    "Belajar": "https://www.instagram.com/motionimebelajar",
+    "Curhat": "https://www.instagram.com/motioncurhat",
+    "HoK": "https://www.instagram.com/motion.hok",
+    "Medical": "https://www.instagram.com/motionimemedical"
+  },
   "external_knowledge": {
     "gaming_trends": {
       "definition": "Tren gaming terbaru mencakup perkembangan dalam industri video game, seperti rilis game baru, teknologi gaming, dan komunitas gaming global.",
