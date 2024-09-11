@@ -1,1 +1,251 @@
-
+{
+  "guardian_specialists": [
+    {
+      "name": "ImpacT",
+      "division": "Guardian Specialist",
+      "user_id": "380992263213547523"
+    }
+  ],
+  "guardian": [
+    {
+      "name": "Nekoturnal",
+      "division": "DGT Champion",
+      "user_id": "273015070215372801"
+    },
+    {
+      "name": "Frexiaaa",
+      "division": "RPG Champion",
+      "user_id": "307516460975128577"
+    },
+    {
+      "name": "Lil.",
+      "division": "MLBB Champion",
+      "user_id": "407867366882672641"
+    },
+    {
+      "name": "Way",
+      "division": "X Champion",
+      "user_id": "456216733565452299"
+    },
+    {
+      "name": "Malovent",
+      "division": "Brawlhalla Champion",
+      "user_id": "338595905101889536"
+    },
+    {
+      "name": "Jali",
+      "division": "Twitter Champion",
+      "user_id": "463757762988605460"
+    },
+    {
+      "name": "Donny",
+      "division": "Tournament Champion",
+      "user_id": "481091426147500032"
+    },
+    {
+      "name": "Irfan",
+      "division": "Game & Belajar Champion",
+      "user_id": "729552837918326804"
+    },
+    {
+      "name": "Gizmo",
+      "division": "Broadcast Champion",
+      "user_id": "269806575697264641"
+    },
+    {
+      "name": "Ryn",
+      "division": "IT Support Champion",
+      "user_id": "694107896966938646"
+    },
+    {
+      "name": "Kevyn",
+      "division": "Minecraft Champion",
+      "user_id": "905749455200989224"
+    },
+    {
+      "name": "Leviche",
+      "division": "Honor Of King Champion",
+      "user_id": "367247866000965632"
+    },
+    {
+      "name": "Hauntzer",
+      "division": "Medical Champion",
+      "user_id": "279824928935641088"
+    },
+    {
+      "name": "Yosh",
+      "division": "Marvel Snap Champion",
+      "user_id": "393808472254185472"
+    },
+    {
+      "name": "Ephraim",
+      "division": "Mobile RPG Champion",
+      "user_id": "613923775984959491"
+    },
+    {
+      "name": "Baekhyungf",
+      "division": "Korean Champion",
+      "user_id": "811136780828803113"
+    },
+    {
+      "name": "Gerry",
+      "division": "Meme Champion",
+      "user_id": "587229618545754113"
+    },
+    {
+      "name": "HANU",
+      "division": "Fighting Champion",
+      "user_id": "572666691608117268"
+    },
+    {
+      "name": "Asriel",
+      "division": "Underrated Game Champion",
+      "user_id": "470642562491744256"
+    },
+    {
+      "name": "Nyonge",
+      "division": "Tokusatsu Champion",
+      "user_id": "852846003450019872"
+    },
+    {
+      "name": "Adith",
+      "division": "Moderator Champion",
+      "user_id": "762163864610930708"
+    },
+    {
+      "name": "Levio",
+      "division": "Wota JKT48 Champion",
+      "user_id": "426559540494860298"
+    },
+    {
+      "name": "Skia",
+      "division": "Komik Champion",
+      "user_id": "749204890693271593"
+    },
+    {
+      "name": "Putra",
+      "division": "Motion Champion",
+      "user_id": "393378954070982656"
+    },
+    {
+      "name": "Xiin",
+      "division": "eFootball Champion",
+      "user_id": "878157717791998012"
+    },
+    {
+      "name": "Haykal",
+      "division": "TriHolyTrinity Champion",
+      "user_id": "559682387450134539"
+    },
+    {
+      "name": "Vio Rizu",
+      "division": "General Champion",
+      "user_id": "650726809339428864"
+    },
+    {
+      "name": "Cavendish",
+      "division": "Kuliner Champion",
+      "user_id": "955346561309769738"
+    },
+    {
+      "name": "Idinnnnn",
+      "division": "Valorant Champion",
+      "user_id": "720800855271407647"
+    },
+    {
+      "name": "Pita",
+      "division": "Media Partner Champion",
+      "user_id": "880463061394260059"
+    },
+    {
+      "name": "Cyanide",
+      "division": "English Champion",
+      "user_id": "769924655485419521"
+    },
+    {
+      "name": "JonJas",
+      "division": "Basketball Champion",
+      "user_id": "484986815674187777"
+    },
+    {
+      "name": "Molaa",
+      "division": "Horror Champion",
+      "user_id": "693260558170062951"
+    },
+    {
+      "name": "Fasah29",
+      "division": "Love Champion",
+      "user_id": "421871258372800522"
+    },
+    {
+      "name": "Timon",
+      "division": "Remix Champion",
+      "user_id": "805165880820105256"
+    },
+    {
+      "name": "Arya",
+      "division": "Cosplay Champion",
+      "user_id": "416552415316148224"
+    },
+    {
+      "name": "Moonlight",
+      "division": "Female Champion",
+      "user_id": "513574996908441600"
+    },
+    {
+      "name": "Samuel",
+      "division": "Creative Champion",
+      "user_id": "705026916591337522"
+    },
+    {
+      "name": "Z",
+      "division": "Curhat Champion",
+      "user_id": "460688084103593994"
+    },
+    {
+      "name": "Cikuu",
+      "division": "None",
+      "user_id": "455052494733705226"
+    },
+    {
+      "name": "NIHIL",
+      "division": "Artificial Champion",
+      "user_id": "548801310506352641"
+    },
+    {
+      "name": "Fyy",
+      "division": "Rhythm Champion",
+      "user_id": "497748439770333184"
+    },
+    {
+      "name": "Didit Art",
+      "division": "Cinematic Champion",
+      "user_id": "266264650344169473"
+    },
+    {
+      "name": "Maestro",
+      "division": "Roblox Champion",
+      "user_id": "618286513431642163"
+    },
+    {
+      "name": "yourmeaning",
+      "division": "Drakor Champion",
+      "user_id": "210566702004436992"
+    },
+    {
+      "name": "Theresia",
+      "division": "Minisoccer Champion",
+      "user_id": "706963436528992267"
+    },
+    {
+      "name": "Zureyy",
+      "division": "CODM Champion",
+      "user_id": "508479962702151693"
+    },
+    {
+      "name": "Argi",
+      "division": "Hotwheels Champion",
+      "user_id": "508479962702151693"
+    }
+  ]
+}
