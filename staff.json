@@ -4,6 +4,11 @@
       "name": "ImpacT",
       "division": "Guardian Specialist",
       "user_id": "380992263213547523"
+    },
+    {
+      "name": "Putra",
+      "division": "Motion Champion",
+      "user_id": "393378954070982656"
     }
   ],
   "guardian": [
@@ -133,16 +138,6 @@
       "user_id": "878157717791998012"
     },
     {
-      "name": "Haykal",
-      "division": "TriHolyTrinity Champion",
-      "user_id": "559682387450134539"
-    },
-    {
-      "name": "Vio Rizu",
-      "division": "General Champion",
-      "user_id": "650726809339428864"
-    },
-    {
       "name": "Cavendish",
       "division": "Kuliner Champion",
       "user_id": "955346561309769738"
@@ -246,11 +241,6 @@
       "name": "Argi",
       "division": "Hotwheels Champion",
       "user_id": "508479962702151693"
-    },
-    {
-      "name": "Kazu",
-      "division": "member",
-      "user_id": "391800933480398850"
     }
   ]
 }
