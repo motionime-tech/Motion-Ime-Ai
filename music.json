@@ -1,7 +1,12 @@
 {
-    "title": "Song Title",
-    "artist": "Artist Name",
-    "spotify": "https://open.spotify.com/track/XXXXXXXXX",
-    "youtube": "https://www.youtube.com/results?search_query=Song+Title+Artist+Name+music"
+  "title": "Song Title",
+  "artist": "Artist Name",
+  "spotify": "https://open.spotify.com/track/XXXXXXXXX",
+  "youtube": "https://www.youtube.com/watch?v=XXXXXXXXX",
+  "lastfm": {
+    "listeners": "12345",
+    "playcount": "67890",
+    "wiki": "This is a summary of the song.",
+    "similar": ["Similar Song 1", "Similar Song 2"]
   }
-  
+}

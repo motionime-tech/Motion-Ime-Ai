@@ -1,9 +1,13 @@
-from flask import Flask, request, jsonify # type: ignore
-import requests # type: ignore
+from flask import Flask, request, jsonify
+import requests
 import base64
 import os
+import logging
 
 app = Flask(__name__)
+
+# Setup logging
+logging.basicConfig(level=logging.INFO)
 
 # Configuration for ACRCloud
 ACR_API_URL = "https://api.acrcloud.com/v1/identify"
@@ -13,6 +17,9 @@ ACR_API_SECRET = "YOUR_ACR_CLOUD_API_SECRET"  # Replace with your ACRCloud API s
 # Spotify API credentials
 SPOTIFY_CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID"  # Replace with your Spotify Client ID
 SPOTIFY_CLIENT_SECRET = "YOUR_SPOTIFY_CLIENT_SECRET"  # Replace with your Spotify Client Secret
+
+# Last.fm API credentials
+LASTFM_API_KEY = "YOUR_LASTFM_API_KEY"  # Replace with your Last.fm API key
 
 def get_spotify_access_token():
     url = "https://accounts.spotify.com/api/token"
@@ -40,25 +47,41 @@ def search_spotify(title, artist):
     return None
 
 def search_youtube(title, artist):
-    # You need to replace this with your own YouTube Data API implementation
     query = f"{title} {artist} music"
-    return f"https://www.youtube.com/results?search_query={query}"
+    youtube_api_key = "YOUR_YOUTUBE_API_KEY"  # Replace with your YouTube API key
+    url = f"https://www.googleapis.com/youtube/v3/search?part=snippet&q={query}&key={youtube_api_key}&maxResults=1"
+    response = requests.get(url)
+    results = response.json()
+    if results['items']:
+        video_id = results['items'][0]['id']['videoId']
+        return f"https://www.youtube.com/watch?v={video_id}"
+    return None
+
+def search_lastfm(title, artist):
+    url = f"http://ws.audioscrobbler.com/2.0/?method=track.getinfo&api_key={LASTFM_API_KEY}&artist={artist}&track={title}&format=json"
+    response = requests.get(url)
+    data = response.json()
+    if 'track' in data:
+        track = data['track']
+        return {
+            "listeners": track.get('listeners'),
+            "playcount": track.get('playcount'),
+            "wiki": track.get('wiki', {}).get('summary'),
+            "similar": [similar['name'] for similar in track.get('similar', {}).get('track', [])]
+        }
+    return None
 
 @app.route('/detect_music', methods=['POST'])
 def detect_music():
-    # Receive the video file
     file = request.files['video']
     file_path = f'temp_video.{file.filename.split(".")[-1]}'
     file.save(file_path)
 
-    # Extract audio from video (using ffmpeg)
     audio_path = "temp_audio.wav"
     os.system(f"ffmpeg -i {file_path} -ac 1 -ar 16000 -y {audio_path}")
 
-    # Call the music recognition API
     music_info = identify_music(audio_path)
 
-    # Clean up temporary files
     os.remove(file_path)
     os.remove(audio_path)
 
@@ -68,15 +91,13 @@ def identify_music(audio_file):
     with open(audio_file, 'rb') as f:
         audio_data = f.read()
 
-    # Encode audio data
     encoded_audio = base64.b64encode(audio_data).decode('utf-8')
 
-    # Prepare the API request
     data = {
         "sample": {
             "data": encoded_audio,
             "format": "wav",
-            "duration": int(os.path.getsize(audio_file) / (16000 * 2))  # Adjust according to audio format
+            "duration": int(os.path.getsize(audio_file) / (16000 * 2))
         },
         "app": {
             "key": ACR_API_KEY,
@@ -88,24 +109,23 @@ def identify_music(audio_file):
     response_data = response.json()
 
     if response_data.get("status") == 0:
-        # Music found
         music = response_data['metadata']['music'][0]
         title = music['title']
         artist = music['artists'][0]['name']
 
-        # Search for music links
         spotify_link = search_spotify(title, artist)
         youtube_link = search_youtube(title, artist)
+        lastfm_info = search_lastfm(title, artist)
 
         return {
             "title": title,
             "artist": artist,
             "spotify": spotify_link,
-            "youtube": youtube_link
+            "youtube": youtube_link,
+            "lastfm": lastfm_info
         }
     else:
         return {"error": "Music not found."}
 
 if __name__ == '__main__':
-    # Make sure Tesseract is installed and correctly configured in your PATH
     app.run(debug=True)
