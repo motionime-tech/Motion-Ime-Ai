@@ -21,13 +21,13 @@
   "owner": {
     "windah_basudara": {
       "name": "Windah Basudara",
-      "discord_id": "551908379950317583",
+      "user_id": "551908379950317583",
       "role": "First Human",
       "description": "Windah Basudara adalah pendiri Motion Ime, seorang YouTuber dan streamer terkenal di Indonesia yang dikenal karena membangun komunitas digital yang sangat aktif."
     },
     "rio_djaja": {
       "name": "Rio Djaja",
-      "discord_id": "596250349346488320",
+      "user_id": "596250349346488320",
       "role": "Co-Founder",
       "description": "Rio Djaja adalah Co-Founder Motion Ime, yang bersama Windah Basudara mengembangkan proyek ini dari awal, berfokus pada inovasi dalam teknologi dan komunitas."
     }
@@ -35,7 +35,7 @@
   "moderator": {
     "mories": {
       "name": "MORIES",
-      "discord_id": "878203638890250261",
+      "user_id": "878203638890250261",
       "role": "Moderator",
       "description": "MORIES adalah Moderator di bawah First Human, bertanggung jawab atas pengelolaan komunitas dan memastikan diskusi berjalan dengan baik."
     }
@@ -43,13 +43,13 @@
   "guardian_specialist": {
     "impact": {
       "name": "Impact",
-      "discord_id": "380992263213547523",
+      "user_id": "380992263213547523",
       "role": "Guardian Specialist",
       "description": "Moderator Specialist of Motion Ime."
     },
     "putra": {
       "name": "Putra",
-      "discord_id": "393378954070982656",
+      "user_id": "393378954070982656",
       "role": "Guardian Specialist",
       "description": "Moderator Specialist of Motion Ime."
     }

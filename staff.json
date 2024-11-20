@@ -1,17 +1,17 @@
 {
   "guardian_specialists": [
     {
-      "name": "ImpacT",
-      "division": "Guardian Specialist",
-      "user_id": "380992263213547523"
-    },
-    {
       "name": "Putra",
       "division": "Motion Champion",
       "user_id": "393378954070982656"
     }
   ],
   "guardian": [
+    {
+      "name": "Kazu",
+      "division": "Technology Champion",
+      "user_id": "391800933480398850"
+    },
     {
       "name": "Nekoturnal",
       "division": "DGT Champion",
@@ -241,6 +241,16 @@
       "name": "Argi",
       "division": "Hotwheels Champion",
       "user_id": "508479962702151693"
+    },
+    {
+      "name": "Kyy",
+      "division": "Bloxfruit Champion",
+      "user_id": "1186352768697499762"
+    },
+    {
+      "name": "Vanarche",
+      "division": "Growtopia Champion",
+      "user_id": "428802484803338241"
     }
   ]
 }

@@ -3,6 +3,7 @@
     "channels": [
       {
         "name": "▬▬▬▬Get Started▬▬▬▬",
+        "category_id": "1236270962891292742",
         "description": "",
         "channels": [
           {
@@ -27,7 +28,8 @@
       },
       {
         "name": "▬▬▬▬Official▬▬▬▬",
-        "description": "",
+        "category_id": "1236271629361872896",
+        "description": "The main hall of server community",
         "channels": [
           {
             "name": "📢┃announcement",
@@ -57,6 +59,7 @@
       },
       {
         "name": "▬▬▬▬Community▬▬▬▬",
+        "category_id": "1236271675918778378",
         "description": "Kategori ini mencakup saluran untuk diskusi umum dan interaksi sosial dalam komunitas Motion Ime.",
         "channels": [
           {
@@ -100,6 +103,111 @@
             "channel_id": "1236313727884591185",
             "description": "Channel untuk melaporkan pelanggaran yang dilakukan oleh anggota komunitas.",
             "type": "Text Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬Motion Ime Festival▬▬",
+        "category_id": "1285476212751339570",
+        "description": "Kategori yang membahas event motion ime festival 2024",
+        "channels": [
+          {
+            "name": "🌊┃news",
+            "channel_id": "1285476885580480544",
+            "description": "Channel untuk informasi terbaru event motion ime festival",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌊┃festival-chat",
+            "channel_id": "1285476824834506793",
+            "description": "Channel untuk bertanya seputar event motion ime festival",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌊┃festival-forum",
+            "channel_id": "1285476850264576051",
+            "description": "Forum discuss untuk member yang akan hadir dalam masing masing wilayah",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Entertainment▬▬▬",
+        "category_id": "1236298893180928111",
+        "description": "",
+        "channels": [
+          {
+            "name": "🗿┃meme",
+            "channel_id": "1236314329628938292",
+            "description": "Channel untuk tempat ngobrol",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎨┃fanart",
+            "channel_id": "1236314346628583452",
+            "description": "Channel untuk tempat ngobrol ke 2",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💻┃ai-fanart",
+            "channel_id": "1236314361446924318",
+            "description": "Channel untuk mengirim hasil karya ai yang dibuat",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💻┃ai-generating",
+            "channel_id": "1236314380304384072",
+            "description": "Channel bot image generator ai",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎮┃gaming-setup",
+            "channel_id": "1262670772883689553",
+            "description": "Forum untuk show off setup pc/laptop",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🌠┃Production Room",
+            "channel_id": "1236314408422998126",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬Free Talk (English)▬▬",
+        "category_id": "1236327512594710558",
+        "description": "This category is talking about english",
+        "channels": [
+          {
+            "name": "💭┃free-talk-chat",
+            "channel_id": "1236327712143179818",
+            "description": "English Chat Channel",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📷┃free-talk-media",
+            "channel_id": "1236328251606171739",
+            "description": "English Media",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💭┃free-talk-forum",
+            "channel_id": "1236329992225558548",
+            "description": "English Forum",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃English Room",
+            "channel_id": "1236327768816357376",
+            "description": "English Talk Voice 1",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃English Room",
+            "channel_id": "1236327844024418377",
+            "description": "English Talk Voice 2",
+            "type": "Voice Channel"
           }
         ]
       }
