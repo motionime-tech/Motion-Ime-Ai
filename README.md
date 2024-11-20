@@ -8,7 +8,7 @@
 Welcome to **Motion Ime Ai Api**! This repository is dedicated to developing the knowledge base for the Motion Ime AI, a multifunctional digital assistant. The purpose of this repository is to collect and manage information in JSON format that can be used by Motion Ime AI in various contexts.
 
 ## Table of Contents
-- [Reposity Purpose](#Repository Purpose)
+- [Reposity Purpose](Repository Purpose)
 - [ToDo](ToDo)
 
 ## Repository Purpose
@@ -19,9 +19,9 @@ The goals of this repository are to:
 - Provide safe, useful, and accessible data for AI to support various digital functions.
 
 
-##ToDo
+## ToDo
 
-*Require you must update list on ToDo file to future changes for example bug fix or add new stuff on this projects add your tag user on ToDo list make sure the user is valid 
+Require you must update list on ToDo file to future changes for example bug fix or add new stuff on this projects add your tag user on ToDo list make sure the user is valid 
 
 ## Contribution Types
 
