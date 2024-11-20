@@ -46,7 +46,7 @@ To maintain the quality and security of this repository, we have established sev
 1. **Fork This Repository**: Start by forking this repository to your GitHub account.
 2. **Clone the Repository**: Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/motionime-tech/Motion-Ime-Ai.git
+   git clone https://github.com/[your-git-account]/Motion-Ime-Ai.git
    ```
 3. **Create a New Branch**: Create a new branch for your contribution.
    ```bash
