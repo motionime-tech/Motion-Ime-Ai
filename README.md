@@ -24,11 +24,10 @@ Welcome to **Motion Ime Ai Api**! This repository is dedicated to developing the
 ### Example Request:
 You need to include the `Authorization` header with Valid Key.
 1. Example with Curl
-```json
+```
 curl -X POST https://motionime.my.id/api/ \
 -H "Authorization: API_KEY" \
 -d '{"q": "Hi Apa Kabar?"}'
-
 ```
 2. Example with Postman
 
