@@ -61,9 +61,11 @@ The goals of this repository are to:
 - Enable anyone to contribute to expanding the knowledge base for Motion Ime AI in JSON format.
 - Provide safe, useful, and accessible data for AI to support various digital functions.
 
-## ToDo
+## Changelog 
 
-Require you must update list on ToDo file to future changes for example bug fix or add new stuff on this projects add your tag user on ToDo list make sure the user is valid 
+> **Note**: You are required to update the **CHANGELOG.md** file whenever making changes, such as fixing bugs or adding new features.  
+- Add your username to the **ToDo** list to track contributions.  
+- Ensure that the username is valid and accurately represents the contributor.  
 
 ## Contribution Types
 
