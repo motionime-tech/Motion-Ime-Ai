@@ -1,14 +1,14 @@
 {
     "setup": {
-      "temperature": 0.75,
-      "max_tokens": 1000,
-      "max_output": 1024,
+      "temperature": 0.4,
+      "max_tokens": 4096,
+      "max_output": 4096,
       "frequency_penalty": 0.2,
       "presence_penalty": 0.3,
-      "top_p": 0.9,
-      "stop_sequences": ["User:","Phone Number","Address","IP:"],
-      "models": "ggml",
-      "response_timeout": 2000
+      "top_p": 0.85,
+      "stop_sequences": ["User:","Phone Number","Address","IP:","[END]"],
+      "models": "auto",
+      "response_timeout": 1000
     }
   }
   
