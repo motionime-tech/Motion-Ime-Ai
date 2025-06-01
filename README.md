@@ -1,7 +1,7 @@
 # Motion Ime Ai Api
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/icons/1204973330449567774/a1bb705019ec7a1b0a239172cffc18d6.webp?size=128" alt="MotionIme Logo" />
+  <img src="https://cdn.discordapp.com/icons/1204973330449567774/a_492e6f66e19e63bb4e21030f16e9c20f.webp?size=128" alt="Motion Ime Logo" />
 </p>
 
 Welcome to **Motion Ime Ai Api**! This repository is dedicated to developing the knowledge base for the Motion Ime AI, a multifunctional digital assistant. The purpose of this repository is to collect and manage information in JSON format that can be used by Motion Ime AI in various contexts.
@@ -19,7 +19,7 @@ Welcome to **Motion Ime Ai Api**! This repository is dedicated to developing the
 ## API Documentation
 
 ### Endpoint URL
-`https://motionime.my.id/api/`
+~~`https://motionime.my.id/api/`~~ Endpoint Changed Soon!
 
 ### Example Request:
 You need to include the `Authorization` header with Valid Key.
