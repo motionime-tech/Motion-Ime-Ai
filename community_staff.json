@@ -1,31 +1,34 @@
 {
-  "guardian_specialists": [
-    {
-      "name": "Putra",
-      "division": "Motion Champion",
-      "user_id": "393378954070982656"
-    }
-  ],
   "guardian": [
     {
-      "name": "Kazu",
-      "division": "Technology Champion",
-      "user_id": "391800933480398850"
+      "name": "Acan",
+      "division": "Motion Champion",
+      "user_id": "1148637099587817543"
+    },
+    {
+      "name": "Azrenatlus",
+      "division": "Motion Champion",
+      "user_id": "318396458875486208"
+    },
+    {
+      "name": "Irliewijanarko",
+      "division": "Motion Champion",
+      "user_id": "216529579471405056"
+    },
+    {
+      "name": "Bellatha",
+      "division": "Motion Champion",
+      "user_id": "1375404337379151933"
+    },
+    {
+      "name": "Andr.yeah",
+      "division": "Motion Champion",
+      "user_id": "754654810556465162"
     },
     {
       "name": "Nekoturnal",
       "division": "DGT Champion",
       "user_id": "273015070215372801"
-    },
-    {
-      "name": "Frexiaaa",
-      "division": "RPG Champion",
-      "user_id": "307516460975128577"
-    },
-    {
-      "name": "Lil.",
-      "division": "MLBB Champion",
-      "user_id": "407867366882672641"
     },
     {
       "name": "Way",
@@ -43,29 +46,14 @@
       "user_id": "463757762988605460"
     },
     {
-      "name": "Donny",
-      "division": "Tournament Champion",
-      "user_id": "481091426147500032"
-    },
-    {
       "name": "Irfan",
       "division": "Game & Belajar Champion",
       "user_id": "729552837918326804"
     },
     {
-      "name": "Gizmo",
-      "division": "Broadcast Champion",
-      "user_id": "269806575697264641"
-    },
-    {
       "name": "Ryn",
-      "division": "IT Support Champion",
+      "division": "IT Support",
       "user_id": "694107896966938646"
-    },
-    {
-      "name": "Kevyn",
-      "division": "Minecraft Champion",
-      "user_id": "905749455200989224"
     },
     {
       "name": "Leviche",
@@ -79,11 +67,11 @@
     },
     {
       "name": "Yosh",
-      "division": "Marvel Snap Champion",
+      "division": "TCG Mobile Game Champion",
       "user_id": "393808472254185472"
     },
     {
-      "name": "Evra",
+      "name": "Ephraim",
       "division": "Mobile RPG Champion",
       "user_id": "613923775984959491"
     },
@@ -114,13 +102,8 @@
     },
     {
       "name": "Adith",
-      "division": "Moderator Champion",
+      "division": "Champion",
       "user_id": "762163864610930708"
-    },
-    {
-      "name": "Levio",
-      "division": "Wota JKT48 Champion",
-      "user_id": "426559540494860298"
     },
     {
       "name": "Skia",
@@ -128,19 +111,9 @@
       "user_id": "749204890693271593"
     },
     {
-      "name": "Putra",
-      "division": "Motion Champion",
-      "user_id": "393378954070982656"
-    },
-    {
       "name": "Xiin",
       "division": "eFootball Champion",
       "user_id": "878157717791998012"
-    },
-    {
-      "name": "Cavendish",
-      "division": "Kuliner Champion",
-      "user_id": "955346561309769738"
     },
     {
       "name": "Idinnnnn",
@@ -151,11 +124,6 @@
       "name": "Pita",
       "division": "Media Partner Champion",
       "user_id": "880463061394260059"
-    },
-    {
-      "name": "Cyanide",
-      "division": "English Champion",
-      "user_id": "769924655485419521"
     },
     {
       "name": "JonJas",
@@ -198,11 +166,6 @@
       "user_id": "460688084103593994"
     },
     {
-      "name": "Cikuu",
-      "division": "None",
-      "user_id": "455052494733705226"
-    },
-    {
       "name": "NIHIL",
       "division": "Artificial Champion",
       "user_id": "548801310506352641"
@@ -233,19 +196,19 @@
       "user_id": "706963436528992267"
     },
     {
-      "name": "Zureyy",
-      "division": "CODM Champion",
-      "user_id": "508479962702151693"
+      "name": "Nael",
+      "division": "Documentation Champion",
+      "user_id": "700546088314339439"
     },
     {
-      "name": "Argi",
-      "division": "Hotwheels Champion",
-      "user_id": "508479962702151693"
+      "name": "Faris",
+      "division": "Multimedia Champion",
+      "user_id": "997016243741667379"
     },
     {
-      "name": "Kyy",
-      "division": "Bloxfruit Champion",
-      "user_id": "1186352768697499762"
+      "name": "Katherine",
+      "division": "Anime Champion",
+      "user_id": "650726809339428864"
     },
     {
       "name": "Vanarche",
@@ -253,9 +216,29 @@
       "user_id": "428802484803338241"
     },
     {
-      "name": "Mevaku",
-      "division": "Anime Champion",
-      "user_id": "650726809339428864"
+      "name": "Kyy",
+      "division": "BloxFruit Champion",
+      "user_id": "1186352768697499762"
+    },
+    {
+      "name": "Argi",
+      "division": "Hotwheels Champion",
+      "user_id": "508479962702151693"
+    },
+    {
+      "name": "Jamie",
+      "division": "Creative Champion",
+      "user_id": "444862898146377738"
+    },
+    {
+      "name": "Wishkey",
+      "division": "Performer Champion",
+      "user_id": "1050324267641864214"
+    },
+    {
+      "name": "Fara",
+      "division": "Assistant Champion",
+      "user_id": "510352337248714753"
     },
     {
       "name": "Yazid",
@@ -264,33 +247,38 @@
     },
     {
       "name": "Icy Ghost",
-      "division": "Hoyoverse Champion",
+      "division": "HoyoVerse Champion",
       "user_id": "294718836974944266"
     },
     {
-      "name": "Jamie",
-      "division": "Creative Champion",
-      "user_id": "444862898146377738"
+      "name": "Jeremy",
+      "division": "Free Fire Champion",
+      "user_id": "520151427511877632"
     },
     {
-      "name": "Kala",
-      "division": "Festival Champion",
-      "user_id": "754327870201135134"
+      "name": "Asung",
+      "division": "Pin Champion",
+      "user_id": "691321574921469973"
     },
     {
-      "name": "Nael",
-      "division": "Documentation Champion",
-      "user_id": "700546088314339439"
+      "name": "Jack Garland",
+      "division": "RPG Champion",
+      "user_id": "440013564690825240"
+    },
+    {
+      "name": "Tate",
+      "division": "Belajar/HR Champion",
+      "user_id": "916726386838863912"
+    },
+    {
+      "name": "Impact",
+      "division": "MIT Admin",
+      "user_id": "380992263213547523"
     },
     {
       "name": "Zoey",
       "division": "Whatsapp Champion",
       "user_id": "757217179002339350"
-    },
-    {
-      "name": "lam",
-      "division": "Football Champion",
-      "user_id": "441222646357819412"
     }
   ]
 }
