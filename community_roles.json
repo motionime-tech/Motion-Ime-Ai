@@ -1,0 +1,856 @@
+{
+  "roles": [
+    {
+      "id": "1236291893097271307",
+      "name": "First Human",
+      "description": "",
+      "color": 15106326
+    },
+    {
+      "id": "1236291755842998383",
+      "name": "Moderator",
+      "description": "",
+      "color": 14185769
+    },
+    {
+      "id": "1329058951026708542",
+      "name": "Community Manager",
+      "description": "",
+      "color": 16685312
+    },
+    {
+      "id": "1236294124286640170",
+      "name": "Administrative",
+      "description": "",
+      "color": 14366519
+    },
+    {
+      "id": "1236273082579030047",
+      "name": "Guardian",
+      "description": "",
+      "color": 14366519
+    },
+    {
+      "id": "1299994589192654859",
+      "name": "Council",
+      "description": "",
+      "color": 14366519
+    },
+    {
+      "id": "1370086825586196641",
+      "name": "Motion Life Manager",
+      "description": "",
+      "color": 1697673
+    },
+    {
+      "id": "1236299688295137351",
+      "name": "Family",
+      "description": "",
+      "color": 9964792
+    },
+    {
+      "id": "1236299829920137216",
+      "name": "Donatur of Change",
+      "description": "",
+      "color": 4179137
+    },
+    {
+      "id": "1242770523809775646",
+      "name": "Bocil Sponsorship",
+      "description": "",
+      "color": 16036398
+    },
+    {
+      "id": "1236300935035355209",
+      "name": "Bocil Sultan",
+      "description": "",
+      "color": 15844367
+    },
+    {
+      "id": "1206215479895662622",
+      "name": "Motionster",
+      "description": "",
+      "color": 14969293
+    },
+    {
+      "id": "1236299939957440543",
+      "name": "Creator",
+      "description": "",
+      "color": 9686827
+    },
+    {
+      "id": "1239049070354501653",
+      "name": "Music Enthusiast",
+      "description": "",
+      "color": 6815999
+    },
+    {
+      "id": "1330910387188535406",
+      "name": "Medical Doctor",
+      "description": "",
+      "color": 50159
+    },
+    {
+      "id": "1330910396437237813",
+      "name": "Dentist",
+      "description": "",
+      "color": 50159
+    },
+    {
+      "id": "1330910423964454922",
+      "name": "Pharmacist",
+      "description": "",
+      "color": 50159
+    },
+    {
+      "id": "1330910403995369584",
+      "name": "Coassistant",
+      "description": "",
+      "color": 50159
+    },
+    {
+      "id": "1255557163556802682",
+      "name": "Medical Assistant",
+      "description": "",
+      "color": 50159
+    },
+    {
+      "id": "1269866121213775975",
+      "name": "Medical Intern",
+      "description": "",
+      "color": 2597334
+    },
+    {
+      "id": "1242827613123379200",
+      "name": "Tournament Manager",
+      "description": "",
+      "color": 15990806
+    },
+    {
+      "id": "1242014071650390018",
+      "name": "Tournament Admin",
+      "description": "",
+      "color": 4409087
+    },
+    {
+      "id": "1334063816526528613",
+      "name": "Gaming",
+      "description": "",
+      "color": 15277667
+    },
+    {
+      "id": "1334068571344474144",
+      "name": "Hobby",
+      "description": "",
+      "color": 65509
+    },
+    {
+      "id": "1334070581846474792",
+      "name": "Entertainment",
+      "description": "",
+      "color": 16056064
+    },
+    {
+      "id": "1334070795655319595",
+      "name": "General",
+      "description": "",
+      "color": 234781
+    },
+    {
+      "id": "1236301210747801661",
+      "name": "Bocil Kehidupan",
+      "description": "",
+      "color": 3066993
+    },
+    {
+      "id": "1236301275012927529",
+      "name": "Bocil Kematian",
+      "description": "",
+      "color": 10181046
+    },
+    {
+      "id": "1265609865070641267",
+      "name": "Merdeka",
+      "description": "",
+      "color": 12132674
+    },
+    {
+      "id": "1262312685337579531",
+      "name": "Nusantara Batu Helper",
+      "description": "",
+      "color": 16085869
+    },
+    {
+      "id": "1275884534080077844",
+      "name": "Event Contributor",
+      "description": "",
+      "color": 8442465
+    },
+    {
+      "id": "1236301370945179771",
+      "name": "Veterans",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1246426770086035493",
+      "name": "Veteran Tournament",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238753921024000111",
+      "name": "Veteran Broadcast",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238757433917046785",
+      "name": "Veteran Fotografi",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238757236646481980",
+      "name": "Veteran A.I Fanart",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238754538027225130",
+      "name": "Veteran Fanart",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238627203894476842",
+      "name": "Veteran Meme",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626467139555348",
+      "name": "Veteran Anime",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626221005344859",
+      "name": "Veteran Hoyoverse",
+      "description": "",
+      "color": 16645629
+    },
+    {
+      "id": "1238626013303275571",
+      "name": "Veteran RPG",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1244618438874497024",
+      "name": "Veteran MRPG",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1245738728329314445",
+      "name": "Veteran Arknights",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1245738738802360391",
+      "name": "Veteran FGO",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1255360282792820837",
+      "name": "Veteran Blue Archive",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1249728949106245713",
+      "name": "Veteran Kuroverse",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238695786464677929",
+      "name": "Veteran Pixel",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239544505921966222",
+      "name": "Veteran Toram",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626920544075836",
+      "name": "Veteran Guardian Tales",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238652549641404448",
+      "name": "Veteran MLBB",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1363517447407276199",
+      "name": "Veteran MCGG",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1251840029920071691",
+      "name": "Veteran Honor of King",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238654031849717841",
+      "name": "Veteran Valorant",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1274407945370734652",
+      "name": "Veteran CODM",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1246002166301462559",
+      "name": "Veteran PUBG",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1246002157757399090",
+      "name": "Veteran Free Fire",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238715942473568309",
+      "name": "Veteran Football",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238716244727697508",
+      "name": "Veteran eFootball",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238736990212587530",
+      "name": "Veteran Basketball",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238813331884867614",
+      "name": "Veteran Minecraft",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1296015157545140276",
+      "name": "Veteran Nusantara Batu",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626105653592095",
+      "name": "Veteran Growtopia",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1315731158541140009",
+      "name": "Veteran Fisch",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238625371902054400",
+      "name": "Veteran BloxFruit",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238625915576127519",
+      "name": "Veteran Roblox",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1375118571339780146",
+      "name": "Pendaki Roblox",
+      "description": "",
+      "color": 1960357
+    },
+    {
+      "id": "1238910307825487892",
+      "name": "Veteran Brawlhalla",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239514568808599595",
+      "name": "Veteran Tekken",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1242384563343327264",
+      "name": "Veteran Street Fighter",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238911597045485639",
+      "name": "Veteran Rhythm",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626847659524228",
+      "name": "Veteran Cosplay",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238646515707281479",
+      "name": "Veteran Horror",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626303125622805",
+      "name": "Veteran JKT48",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626398030004224",
+      "name": "Veteran Kpop",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238626517496631408",
+      "name": "Veteran Manga",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239509192239349762",
+      "name": "Veteran Webtoon",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1375483424713998336",
+      "name": "Fashionista",
+      "description": "",
+      "color": 16539340
+    },
+    {
+      "id": "1239509215073144842",
+      "name": "Veteran Manhwa",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239509221658329090",
+      "name": "Veteran Manhua",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1240559778384842776",
+      "name": "Veteran Drakor",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238691987163713566",
+      "name": "Veteran Movie",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1253252177959583785",
+      "name": "Veteran Tokusatsu",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1278572787338051586",
+      "name": "Veteran Collectibles",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238759056961704036",
+      "name": "Veteran Racing",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1240249273262673951",
+      "name": "Veteran Pet",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238627014194364536",
+      "name": "Veteran Kuliner",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238696748495671407",
+      "name": "Veteran Music",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238627489421459466",
+      "name": "Veteran Curhat",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238625240255434903",
+      "name": "Veteran Technology",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238690871806005249",
+      "name": "Veteran Belajar",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239509184010256426",
+      "name": "Veteran Content",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239140331220635680",
+      "name": "Veteran Design",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1239502477565628437",
+      "name": "Veteran Editing",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1375123727129247837",
+      "name": "Veteran Loker",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1238654248175140905",
+      "name": "Veteran MIF",
+      "description": "",
+      "color": 16746073
+    },
+    {
+      "id": "1269252042107523184",
+      "name": "Hoster",
+      "description": "",
+      "color": 3447003
+    },
+    {
+      "id": "1372102278898520105",
+      "name": "Tournament Participant MCGG",
+      "description": "",
+      "color": 7516927
+    },
+    {
+      "id": "1322116314352980008",
+      "name": "Tournament Participant",
+      "description": "",
+      "color": 7516927
+    },
+    {
+      "id": "1236301704715305062",
+      "name": "Pink Enjoyer",
+      "description": "",
+      "color": 15507627
+    },
+    {
+      "id": "1236301747795005624",
+      "name": "Green Enjoyer",
+      "description": "",
+      "color": 7388715
+    },
+    {
+      "id": "1236301805026283561",
+      "name": "Blue Enjoyer",
+      "description": "",
+      "color": 3447003
+    },
+    {
+      "id": "1236301881366675527",
+      "name": "Orange Enjoyer",
+      "description": "",
+      "color": 16296570
+    },
+    {
+      "id": "1236301956172091432",
+      "name": "Purple Enjoyer",
+      "description": "",
+      "color": 6834904
+    },
+    {
+      "id": "1236395363531886673",
+      "name": "Art Awakening",
+      "description": "",
+      "color": 15521551
+    },
+    {
+      "id": "1236395235005694006",
+      "name": "Art Trancendent",
+      "description": "",
+      "color": 13922613
+    },
+    {
+      "id": "1236395130240368824",
+      "name": "Art Abyssal",
+      "description": "",
+      "color": 14046597
+    },
+    {
+      "id": "1236395046987890748",
+      "name": "Art Mystical",
+      "description": "",
+      "color": 14779315
+    },
+    {
+      "id": "1236394964561428613",
+      "name": "Art Mastery",
+      "description": "",
+      "color": 11309275
+    },
+    {
+      "id": "1236394826954575902",
+      "name": "Art Apprentice",
+      "description": "",
+      "color": 7497149
+    },
+    {
+      "id": "1236394752719458380",
+      "name": "Art Lover",
+      "description": "",
+      "color": 4032970
+    },
+    {
+      "id": "1204975590571253841",
+      "name": "Art Enjoyer",
+      "description": "",
+      "color": 2067276
+    },
+    {
+      "id": "1238648960185270375",
+      "name": "Real Women",
+      "description": "",
+      "color": 14779315
+    },
+    {
+      "id": "1238648900005396600",
+      "name": "Female",
+      "description": "",
+      "color": 14779315
+    },
+    {
+      "id": "1238649553490677812",
+      "name": "Male",
+      "description": "",
+      "color": 5930958
+    },
+    {
+      "id": "1236394651070496970",
+      "name": "Pict Perms",
+      "description": "",
+      "color": 16777215
+    },
+    {
+      "id": "1371075592086360184",
+      "name": "Elder",
+      "description": "",
+      "color": 15158332
+    },
+    {
+      "id": "1371075577422811177",
+      "name": "Adult",
+      "description": "",
+      "color": 7990278
+    },
+    {
+      "id": "1371075556753281044",
+      "name": "Teenager",
+      "description": "",
+      "color": 3447003
+    },
+    {
+      "id": "1371067668299518093",
+      "name": "Sumatra",
+      "description": "",
+      "color": 15654290
+    },
+    {
+      "id": "1371067838512496700",
+      "name": "Kalimantan",
+      "description": "",
+      "color": 11595454
+    },
+    {
+      "id": "1371067847509545032",
+      "name": "Sulawesi",
+      "description": "",
+      "color": 11268597
+    },
+    {
+      "id": "1371068374297083944",
+      "name": "Papua",
+      "description": "",
+      "color": 15308411
+    },
+    {
+      "id": "1371074721294061629",
+      "name": "Jakarta",
+      "description": "",
+      "color": 16745472
+    },
+    {
+      "id": "1371074736863580210",
+      "name": "Jawa Barat",
+      "description": "",
+      "color": 5119
+    },
+    {
+      "id": "1371074745818284063",
+      "name": "Banten",
+      "description": "",
+      "color": 2067276
+    },
+    {
+      "id": "1371074754471002163",
+      "name": "Jawa Tengah",
+      "description": "",
+      "color": 10548677
+    },
+    {
+      "id": "1371074762159296523",
+      "name": "Yogyakarta",
+      "description": "",
+      "color": 11027200
+    },
+    {
+      "id": "1371074770807816192",
+      "name": "Jawa Timur",
+      "description": "",
+      "color": 16752341
+    },
+    {
+      "id": "1371075484036632587",
+      "name": "Nusa Tenggara",
+      "description": "",
+      "color": 8426508
+    },
+    {
+      "id": "1371075499627122720",
+      "name": "Bali",
+      "description": "",
+      "color": 10653695
+    },
+    {
+      "id": "1371080286200270878",
+      "name": "International",
+      "description": "",
+      "color": 12949979
+    },
+    {
+      "id": "1236399027726061691",
+      "name": "Music Bots",
+      "description": "",
+      "color": 14170168
+    },
+    {
+      "id": "1238554150413926410",
+      "name": "Japanese",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1239569861395480606",
+      "name": "Mudae",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1239569833041989785",
+      "name": "Epic RPG",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1239569853912711188",
+      "name": "Idle Miner",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1239569868672602162",
+      "name": "OwO",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1239561335050604635",
+      "name": "Game Bots",
+      "description": "",
+      "color": 3447003
+    },
+    {
+      "id": "1239499030354984970",
+      "name": "No EXP",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1324300733520150589",
+      "name": "Stage Access",
+      "description": "",
+      "color": 7495794
+    },
+    {
+      "id": "1246503122684350635",
+      "name": "Social Media",
+      "description": "",
+      "color": 5588565
+    },
+    {
+      "id": "1372941719514910741",
+      "name": "Movies Attendees",
+      "description": "",
+      "color": 15844367
+    }
+  ]
+}
