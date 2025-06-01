@@ -3,50 +3,44 @@
     "channels": [
       {
         "name": "▬▬▬▬Get Started▬▬▬▬",
-        "category_id": "1236270962891292742",
+        "category_id": "",
         "description": "",
         "channels": [
           {
             "name": "📜┃rules",
             "channel_id": "1205018241567694919",
-            "description": "Main rules of motion ime server",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🌟┃start-here",
             "channel_id": "1236271521627115551",
-            "description": "Get Started! Welcome & Guide Channel",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧑┃identify-yourself",
+            "channel_id": "1372300973631868948",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "👑┃select-roles",
             "channel_id": "1236271445437321216",
-            "description": "Selfroles Pick categories & hobbies",
+            "description": "",
             "type": "Text Channel"
           }
         ]
       },
       {
-        "name": "▬▬▬▬Official▬▬▬▬",
-        "category_id": "1236271629361872896",
-        "description": "The main hall of server community",
+        "name": "▬▬▬▬▬Official▬▬▬▬▬",
+        "category_id": "",
+        "description": "",
         "channels": [
           {
-            "name": "📢┃announcement",
-            "channel_id": "1236272057545658409",
-            "description": "Main announcement",
-            "type": "Text Channel"
-          },
-          {
-            "name": "🎉┃social-media",
-            "channel_id": "1236272429178028192",
-            "description": "Update community social media",
-            "type": "Text Channel"
-          },
-          {
-            "name": "✨┃minor-news",
-            "channel_id": "1236272072456667137",
-            "description": "Update Server Information",
+            "name": "⭐┃nitro-voting",
+            "channel_id": "1367010770344214630",
+            "description": "",
             "type": "Text Channel"
           },
           {
@@ -59,112 +53,276 @@
       },
       {
         "name": "▬▬▬▬Community▬▬▬▬",
-        "category_id": "1236271675918778378",
-        "description": "Kategori ini mencakup saluran untuk diskusi umum dan interaksi sosial dalam komunitas Motion Ime.",
+        "category_id": "",
+        "description": "",
         "channels": [
           {
             "name": "💭┃ngobrol-bebas",
             "channel_id": "1236271755576872991",
-            "description": "Channel untuk tempat ngobrol",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "💭┃ngobrol-bebas-2",
             "channel_id": "1236271783259148308",
-            "description": "Channel untuk tempat ngobrol ke 2",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "📷┃media-bebas",
             "channel_id": "1236314525280501852",
-            "description": "Channel untuk mengirim media video/foto random",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "📸┃fotografi",
             "channel_id": "1236343242044211282",
-            "description": "Channel yang khusus membahas dan berbagi seputar fotografi.",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🎥┃videografi",
             "channel_id": "1236343301620367380",
-            "description": "Channel untuk diskusi dan berbagi seputar videografi.",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🔝┃levels",
             "channel_id": "1236314108866072636",
-            "description": "Channel untuk membahas dan menampilkan level pengguna dalam komunitas.",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🚨┃report",
             "channel_id": "1236313727884591185",
-            "description": "Channel untuk melaporkan pelanggaran yang dilakukan oleh anggota komunitas.",
+            "description": "",
             "type": "Text Channel"
+          },
+          {
+            "name": "🏆┃assign-role",
+            "channel_id": "1285850528143638560",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🚺┃Female Verification",
+            "channel_id": "1236319850448683079",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Motion Centre▬▬▬",
+        "category_id": "",
+        "description": "",
+        "channels": [
+          {
+            "name": "📚┃moderation-guide",
+            "channel_id": "1236272723726958592",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📢┃mod-update",
+            "channel_id": "1236272737442463835",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💭┃mod-general",
+            "channel_id": "1236272693066727434",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌸┃fem-general",
+            "channel_id": "1247158990832533505",
+            "description": "*Need Role @Female",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💄┃beauty-chat",
+            "channel_id": "1239153470699733093",
+            "description": "*Need Role @Female",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💉┃med-general",
+            "channel_id": "1281249033674948628",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📰┃media-partnership",
+            "channel_id": "1330885901907394710",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔎┃request",
+            "channel_id": "1236272916211957862",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔱┃Meeting",
+            "channel_id": "1330431996635381903",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🔱┃Lounge",
+            "channel_id": "1236279364476473425",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🥂┃Internal Station",
+            "channel_id": "1331656748087509012",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🌊┃MIF Meeting",
+            "channel_id": "1309165373106552832",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬Motion Ime Tournament▬",
+        "category_id": "",
+        "description": "",
+        "channels": [
+          {
+            "name": "🏆┃welcome",
+            "channel_id": "1242011453544861696",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏆┃announcement",
+            "channel_id": "1372122165805056123",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏆┃hasil-pertandingan",
+            "channel_id": "1244322271984619675",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📃┃technical-meeting",
+            "channel_id": "1372100356472832041",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💭┃tour-general",
+            "channel_id": "1242011522398552084",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🛝┃participant-chat",
+            "channel_id": "1242399297522368553",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧙┃participant-mcgg",
+            "channel_id": "1372100050234114109",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🤝┃info-scrim",
+            "channel_id": "1242011550194073731",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥊┃Tournament Live House",
+            "channel_id": "1263832295350210561",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🥊 ┃Lounge",
+            "channel_id": "1242011586726461450",
+            "description": "",
+            "type": "Voice Channel"
           }
         ]
       },
       {
         "name": "▬▬Motion Ime Festival▬▬",
-        "category_id": "1285476212751339570",
-        "description": "Kategori yang membahas event motion ime festival 2024",
+        "category_id": "",
+        "description": "",
         "channels": [
           {
             "name": "🌊┃news",
             "channel_id": "1285476885580480544",
-            "description": "Channel untuk informasi terbaru event motion ime festival",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🌊┃festival-chat",
             "channel_id": "1285476824834506793",
-            "description": "Channel untuk bertanya seputar event motion ime festival",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🌊┃festival-forum",
             "channel_id": "1285476850264576051",
-            "description": "Forum discuss untuk member yang akan hadir dalam masing masing wilayah",
+            "description": "",
             "type": "Forum Channel"
           }
         ]
       },
       {
         "name": "▬▬▬Entertainment▬▬▬",
-        "category_id": "1236298893180928111",
+        "category_id": "",
         "description": "",
         "channels": [
           {
             "name": "🗿┃meme",
             "channel_id": "1236314329628938292",
-            "description": "Channel untuk tempat ngobrol",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "🎨┃fanart",
             "channel_id": "1236314346628583452",
-            "description": "Channel untuk tempat ngobrol ke 2",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "💻┃ai-fanart",
             "channel_id": "1236314361446924318",
-            "description": "Channel untuk mengirim hasil karya ai yang dibuat",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "💻┃ai-generating",
             "channel_id": "1236314380304384072",
-            "description": "Channel bot image generator ai",
+            "description": "",
             "type": "Text Channel"
           },
           {
-            "name": "🎮┃gaming-setup",
+            "name": "💻┃ai-prompt",
+            "channel_id": "1358316694770290849",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎮┃showcase-gaming-setup",
             "channel_id": "1262670772883689553",
-            "description": "Forum untuk show off setup pc/laptop",
-            "type": "Forum Channel"
+            "description": "",
+            "type": "Text Channel"
           },
           {
             "name": "🌠┃Production Room",
@@ -176,38 +334,2245 @@
       },
       {
         "name": "▬▬Free Talk (English)▬▬",
-        "category_id": "1236327512594710558",
-        "description": "This category is talking about english",
+        "category_id": "",
+        "description": "",
         "channels": [
           {
             "name": "💭┃free-talk-chat",
             "channel_id": "1236327712143179818",
-            "description": "English Chat Channel",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "📷┃free-talk-media",
             "channel_id": "1236328251606171739",
-            "description": "English Media",
+            "description": "",
             "type": "Text Channel"
           },
           {
             "name": "💭┃free-talk-forum",
             "channel_id": "1236329992225558548",
-            "description": "English Forum",
+            "description": "",
             "type": "Forum Channel"
           },
           {
             "name": "📞┃English Room",
             "channel_id": "1236327768816357376",
-            "description": "English Talk Voice 1",
+            "description": "",
             "type": "Voice Channel"
           },
           {
             "name": "📞┃English Room",
             "channel_id": "1236327844024418377",
-            "description": "English Talk Voice 2",
+            "description": "",
             "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃English Room",
+            "channel_id": "1359797698642837545",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬Forum▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "",
+        "channels": [
+          {
+            "name": "🎮┃forum-game",
+            "channel_id": "1236982994414080072",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📦┃forum-random",
+            "channel_id": "1236983047824347136",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🤡┃forum-caper",
+            "channel_id": "1236983014211194900",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Japanese▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Japanese",
+        "channels": [
+          {
+            "name": "👹┃anime-news",
+            "channel_id": "1239115587838410772",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👹┃anime-chat",
+            "channel_id": "1238558104329916518",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👹┃anime-forum",
+            "channel_id": "1238558337549734061",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🌸┃cosplay-news",
+            "channel_id": "1239479712560971786",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌸┃cosplay-chat",
+            "channel_id": "1239150815760089109",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌸┃cosplay-share",
+            "channel_id": "1239150836467367986",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎨┃manga-news",
+            "channel_id": "1366793108909461504",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎨┃manga-chat",
+            "channel_id": "1239315176956891258",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦸┃tokusatsu-chat",
+            "channel_id": "1251834263255384115",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦸┃tokusatsu-forum",
+            "channel_id": "1251834816467439646",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Anime Stage",
+            "channel_id": "1238557853640429701",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Anime Room",
+            "channel_id": "1238557179053736107",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Anime Room",
+            "channel_id": "1257252509676867615",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Manga Room",
+            "channel_id": "1366797229758615735",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Tokusatsu Room",
+            "channel_id": "1370094625695465472",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Nintendo Switch▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Nintendo",
+        "channels": [
+          {
+            "name": "🪼┃switch-chat",
+            "channel_id": "1242194964830748876",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪼┃switch-forum",
+            "channel_id": "1242194984795639828",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Pokemon Center▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Pokemon",
+        "channels": [
+          {
+            "name": "🦊┃pokemon-chat",
+            "channel_id": "1272051669416411198",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦊┃pokemon-go",
+            "channel_id": "1272051699825246259",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦊┃pokemon-tcg",
+            "channel_id": "1272051759560392704",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦊┃pokemon-forum",
+            "channel_id": "1272051820243587184",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Pokemon Room",
+            "channel_id": "1302270370665074709",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬TCG▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @TCG",
+        "channels": [
+          {
+            "name": "🃏┃tcg-chat",
+            "channel_id": "1240467085461553383",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦞┃marvel-snap-chat",
+            "channel_id": "1239287248814473267",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚡┃yugioh-chat",
+            "channel_id": "1272083837631070280",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👒┃one-piece-chat",
+            "channel_id": "1272121597939028009",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃TCG Room",
+            "channel_id": "1345693162483486731",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Hoyoverse▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Hoyoverse",
+        "channels": [
+          {
+            "name": "⛄┃hoyo-news",
+            "channel_id": "1239099450740314132",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⛄┃hoyo-chat",
+            "channel_id": "1238561129291321465",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐰┃zenlesszonezero-chat",
+            "channel_id": "1243546512781475892",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⛄┃hoyo-forum",
+            "channel_id": "1238560809555329085",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Hoyo Room",
+            "channel_id": "1238560558458867782",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Hoyo Room",
+            "channel_id": "1239849917917429780",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Hoyo Room",
+            "channel_id": "1238560514259288126",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Kuroverse▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Kuroverse",
+        "channels": [
+          {
+            "name": "🪽┃kuro-news",
+            "channel_id": "1361372227446112407",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪽┃wuthering-chat",
+            "channel_id": "1239790709549170708",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪽┃wuthering-forum",
+            "channel_id": "1239793480205864970",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🎀┃pgr-chat",
+            "channel_id": "1239839046788976660",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Kuro Room",
+            "channel_id": "1241806366457335899",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Kuro Room",
+            "channel_id": "1363049266632982548",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬RPG▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @RPG",
+        "channels": [
+          {
+            "name": "🎃┃rpg-chat",
+            "channel_id": "1238581775056244847",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎃┃rpg-forum",
+            "channel_id": "1238581936381890591",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🎃┃rpgoffline-forum",
+            "channel_id": "1239843542491205684",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃RPG Room",
+            "channel_id": "1238582585173610536",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃RPG Room",
+            "channel_id": "1239849551704231988",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Triholytrinity▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Holy Trinity",
+        "channels": [
+          {
+            "name": "🔱┃trinity-news",
+            "channel_id": "1303944576964235398",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⭐┃fgo-chat",
+            "channel_id": "1245403667922817146",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⭐┃fgo-forum",
+            "channel_id": "1245403772985806959",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🌑┃arknights-chat",
+            "channel_id": "1245403860923711561",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌑┃arknights-forum",
+            "channel_id": "1245403945388609598",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🌊┃blue-archive-chat",
+            "channel_id": "1255193827094958141",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌊┃blue-archive-forum",
+            "channel_id": "1255193866064232639",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃FGO Room",
+            "channel_id": "1245404018402918400",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Arknights Room",
+            "channel_id": "1246107295230984252",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Blue Archive Room",
+            "channel_id": "1255195392115478579",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬Pixels▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Pixels",
+        "channels": [
+          {
+            "name": "✨┃pixels-chat",
+            "channel_id": "1239149712746090546",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "✨┃pixels-forum",
+            "channel_id": "1239149785995280424",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Pixel Room",
+            "channel_id": "1239149823030984755",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Guardian Tales▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Guardian Tales",
+        "channels": [
+          {
+            "name": "🐲┃tales-news",
+            "channel_id": "1238663291405074432",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐲┃tales-chat",
+            "channel_id": "1238662702755352637",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐲┃tales-forum",
+            "channel_id": "1238663913743056966",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Tales Room",
+            "channel_id": "1238663056523919370",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬Toram▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Toram",
+        "channels": [
+          {
+            "name": "🔮┃toram-chat",
+            "channel_id": "1239275565773492445",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔮┃market",
+            "channel_id": "1240573380663705671",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔮┃toram-forum",
+            "channel_id": "1239275586485092432",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Toram Room",
+            "channel_id": "1239275725253771435",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬MOBA▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @MOBA",
+        "channels": [
+          {
+            "name": "🧝┃moba-news",
+            "channel_id": "1262008861796204557",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧙┃mole-chat",
+            "channel_id": "1239031613757718568",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧙┃mcgg-chat",
+            "channel_id": "1240038764022075503",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧙┃mole-party",
+            "channel_id": "1239104482743160904",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧙┃mole-clip",
+            "channel_id": "1241288400514973766",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧙┃moba-forum",
+            "channel_id": "1239032331671703584",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🪻┃hok-chat",
+            "channel_id": "1239134178440642560",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪻┃hok-party",
+            "channel_id": "1257410984671313931",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪻┃hok-clip",
+            "channel_id": "1268249824411517059",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪻┃hok-forum",
+            "channel_id": "1239134363686535199",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🧌┃dota-chat",
+            "channel_id": "1240038203403272282",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐧┃tft-chat",
+            "channel_id": "1240038806544191529",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃MLBB Room",
+            "channel_id": "1239032674564444293",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃MCGG Room",
+            "channel_id": "1361708384377897130",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃MOBA Room",
+            "channel_id": "1257009036436574288",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬FPS PC▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @FPS",
+        "channels": [
+          {
+            "name": "🔫┃valo-chat",
+            "channel_id": "1239157151503749221",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔫┃valo-clip",
+            "channel_id": "1239157170134716416",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔫┃valo-forum",
+            "channel_id": "1239157275885568000",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🪖┃csgo2-chat",
+            "channel_id": "1239157310434316308",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦸┃marvel-rival-chat",
+            "channel_id": "1322071958585741335",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪂┃fortnite-chat",
+            "channel_id": "1249765221049045072",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👊┃apex-chat",
+            "channel_id": "1249765244138688655",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥽┃point-blank-chat",
+            "channel_id": "1259087894073577523",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃FPS Room",
+            "channel_id": "1239157433914495048",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬Battle Royale Mobile▬▬",
+        "category_id": "",
+        "description": "*Need Role @Battle Royale",
+        "channels": [
+          {
+            "name": "🔥┃freefire-chat",
+            "channel_id": "1239273304334794822",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔥┃freefire-forum",
+            "channel_id": "1239273342683316358",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🍗┃pubg-chat",
+            "channel_id": "1239273363176816690",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍗┃pubg-forum",
+            "channel_id": "1239273393887641660",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "💀┃codm-chat",
+            "channel_id": "1239273478561988608",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💀┃codm-forum",
+            "channel_id": "1239273503581012021",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🪖┃delta-force-chat",
+            "channel_id": "1367329992710688799",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🩸┃bloodstrike-chat",
+            "channel_id": "1240256075207409684",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Battle Room",
+            "channel_id": "1239273431581589664",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Zombie Lover▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Zombie Lover",
+        "channels": [
+          {
+            "name": "🧟┃zombie-chat",
+            "channel_id": "1260084276091817994",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧟┃zombie-forum",
+            "channel_id": "1260084330013659186",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Minecraft▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Minecraft",
+        "channels": [
+          {
+            "name": "🪵┃minecraft-news",
+            "channel_id": "1239289252991340675",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪵┃minecraft-chat",
+            "channel_id": "1239289206702866493",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪵┃minecraft-forum",
+            "channel_id": "1239289229834588320",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🦅┃nusantara-batu-news",
+            "channel_id": "1298537024395149352",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦅┃nusantara-batu-chat",
+            "channel_id": "1262409583637561356",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦅┃nusantara-batu-forum",
+            "channel_id": "1262409605569318992",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Minecraft Room",
+            "channel_id": "1239289306011668593",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Roblox▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Roblox",
+        "channels": [
+          {
+            "name": "🍄┃roblox-news",
+            "channel_id": "1335189371120259184",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌋┃expedition-base",
+            "channel_id": "1375118841776050176",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💅┃fashionista",
+            "channel_id": "1375483020559122442",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍄┃roblox-chat",
+            "channel_id": "1238601928263602287",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍄┃roblox-forum",
+            "channel_id": "1238602001907191868",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🥕┃garden-chat",
+            "channel_id": "1370779352098148403",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥕┃garden-forum",
+            "channel_id": "1370788171310305300",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🍎┃blox-fruit-chat",
+            "channel_id": "1238601764492546078",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍎┃bloxfruit-forum",
+            "channel_id": "1238601073338613760",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🎣┃fisch-chat",
+            "channel_id": "1314251577174921336",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎣┃fisch-forum",
+            "channel_id": "1317592128985239602",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Roblox Room",
+            "channel_id": "1238601846411493376",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Roblox Room",
+            "channel_id": "1238601638265225237",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Roblox Room",
+            "channel_id": "1318974109438312528",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Growtopia▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Growtopia",
+        "channels": [
+          {
+            "name": "🔒┃growtopia-news",
+            "channel_id": "1331579238297505874",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔒┃growtopia-chat",
+            "channel_id": "1238584330859843686",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔒┃market",
+            "channel_id": "1238584156577857566",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔒┃growtopia-bots",
+            "channel_id": "1308107496988217454",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔒┃growtopia-forum",
+            "channel_id": "1238584252774481990",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Growtopia Room",
+            "channel_id": "1238583901639938168",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Football▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Football",
+        "channels": [
+          {
+            "name": "⚽┃football-news",
+            "channel_id": "1239146714401865758",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚽┃football-chat",
+            "channel_id": "1239146734412763158",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚽┃efootball-chat",
+            "channel_id": "1239150455632822313",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚽┃eafc-chat",
+            "channel_id": "1239272758563569725",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚽┃football-manager",
+            "channel_id": "1253580618395287632",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚽┃minisoccer-chat",
+            "channel_id": "1239272859335921704",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⚽┃football-forum",
+            "channel_id": "1239146758597120041",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Football Room",
+            "channel_id": "1239504853672394802",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Football Room",
+            "channel_id": "1239147700541456465",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Basketball▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Basketball",
+        "channels": [
+          {
+            "name": "🏀┃basketball-news",
+            "channel_id": "1239147603728531506",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏀┃basketball-chat",
+            "channel_id": "1239147635726876692",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏀┃basketball-forum",
+            "channel_id": "1239147660154507414",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Fighting▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Fighting",
+        "channels": [
+          {
+            "name": "🥊┃fighting-news",
+            "channel_id": "1239844529503207435",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐯┃tekken-chat",
+            "channel_id": "1239288891476017152",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥋┃streetfighter-chat",
+            "channel_id": "1239288957385183353",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💥┃anime-fighter-chat",
+            "channel_id": "1239288977559912620",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔥┃kof-chat",
+            "channel_id": "1239289017179308142",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧞┃brawlhalla-chat",
+            "channel_id": "1239288910774009956",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥊┃fighting-forum",
+            "channel_id": "1239289076759396372",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Fighting Room",
+            "channel_id": "1239289361623679159",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬Rockstar Universe▬▬",
+        "category_id": "",
+        "description": "*Need Role @Rockstar",
+        "channels": [
+          {
+            "name": "⭐┃gta-chat",
+            "channel_id": "1239288600189730967",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⭐┃gta-clip",
+            "channel_id": "1239288638219616286",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⭐┃gta-forum",
+            "channel_id": "1239288619496378509",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Motion Life▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Motion Life",
+        "channels": [
+          {
+            "name": "🍀┃motionlife-news",
+            "channel_id": "1370082273399144570",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍀┃motionlife-chat",
+            "channel_id": "1370081479534841856",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍀┃motionlife-discord",
+            "channel_id": "1370114385317597194",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍀┃motionlife-media",
+            "channel_id": "1375451737049268244",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍀┃motionlife-forum",
+            "channel_id": "1370082248912670791",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🌴┃Motion Life Podcast",
+            "channel_id": "1370083106698039439",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Motion Life Room",
+            "channel_id": "1370083802071961822",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Motion Life Room",
+            "channel_id": "1370083807293870190",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Supercell▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Supercell",
+        "channels": [
+          {
+            "name": "🐷┃coc-chat",
+            "channel_id": "1242400680950370406",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐷┃coc-forum",
+            "channel_id": "1242400707521417216",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "👑┃clash-royale-chat",
+            "channel_id": "1242400735258349629",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌟┃brawl-star-chat",
+            "channel_id": "1242400756846432266",
+            "description": "",
+            "type": "Text Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Rhythm Game▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Rhythm",
+        "channels": [
+          {
+            "name": "🎹┃rhythm-news",
+            "channel_id": "1333373927237488662",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎹┃rhythm-chat",
+            "channel_id": "1238634811753496576",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥌┃arcade-chat",
+            "channel_id": "1239465766265421866",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎹┃rhythm-clip",
+            "channel_id": "1238635942370344981",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎹┃rhythm-forum",
+            "channel_id": "1238635007854116924",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Rhythm Room",
+            "channel_id": "1331883378215096320",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Horror▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Horror",
+        "channels": [
+          {
+            "name": "👻┃horror-chat",
+            "channel_id": "1238660570962722907",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👻┃horror-forum",
+            "channel_id": "1238660690852446220",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Horror Room",
+            "channel_id": "1238660724381978735",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Fashion▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Fashion",
+        "channels": [
+          {
+            "name": "🧍┃ootd",
+            "channel_id": "1239151536563552256",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧍┃outfit-chat",
+            "channel_id": "1239151666620534874",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧍┃outfit-forum",
+            "channel_id": "1239484244171165698",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🎽┃thrifting-chat",
+            "channel_id": "1273126275971813406",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎽┃thrifting-forum",
+            "channel_id": "1273126305881260063",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "👟┃sneaker-chat",
+            "channel_id": "1239151554959769672",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👟┃sneaker-forum",
+            "channel_id": "1239151720223871047",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🥀┃parfume-chat",
+            "channel_id": "1239151579429601332",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💫┃skincare-chat",
+            "channel_id": "1239151592536801291",
+            "description": "",
+            "type": "Text Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬Idol▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Idol",
+        "channels": [
+          {
+            "name": "🌟┃idol-news",
+            "channel_id": "1250719948792139776",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍡┃jkt48-chat",
+            "channel_id": "1238588100616392856",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍡┃jkt48-forum",
+            "channel_id": "1238588663063908352",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🎀┃kpop-chat",
+            "channel_id": "1238588262864523294",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎀┃kpop-forum",
+            "channel_id": "1238589069559074827",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "💃┃vtuber-chat",
+            "channel_id": "1238588212700774460",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏯┃japan-idol-chat",
+            "channel_id": "1238588956514451476",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Idol Room",
+            "channel_id": "1238588590385135678",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Dance▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Dance",
+        "channels": [
+          {
+            "name": "🪩┃dance-chat",
+            "channel_id": "1341383889695805440",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪩┃dance-forum",
+            "channel_id": "1341384606125002772",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Comic▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Comic",
+        "channels": [
+          {
+            "name": "💫┃comic-news",
+            "channel_id": "1275887546496192513",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💐┃webtoon-chat",
+            "channel_id": "1239315213187289168",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪽┃manhwa-chat",
+            "channel_id": "1239315235173695498",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐼┃manhua-chat",
+            "channel_id": "1239315224373497856",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍁┃novel-chat",
+            "channel_id": "1242017092748709898",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "✨┃comic-forum",
+            "channel_id": "1239315280220655736",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Drama Series▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Drama Series",
+        "channels": [
+          {
+            "name": "✨┃drama-news",
+            "channel_id": "1366781452951490560",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💗┃drakor-chat",
+            "channel_id": "1239316707156299847",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💗┃drakor-forum",
+            "channel_id": "1239316731160297473",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🏮┃drachin-chat",
+            "channel_id": "1308086607898742825",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Drama Room",
+            "channel_id": "1239316777234727034",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Movie▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Movie",
+        "channels": [
+          {
+            "name": "🍿┃movie-news",
+            "channel_id": "1372942685287219353",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍿┃movie-chat",
+            "channel_id": "1239316548791963810",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍿┃movie-bot",
+            "channel_id": "1239899004599275580",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍿┃movie-forum",
+            "channel_id": "1239316608258936863",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Movie Room",
+            "channel_id": "1239316629922516992",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Racing▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Racing",
+        "channels": [
+          {
+            "name": "🏎┃f1-chat",
+            "channel_id": "1239315622672990272",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏍┃motogp-chat",
+            "channel_id": "1239315644554547210",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏁┃nascar-chat",
+            "channel_id": "1249765661794766868",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Racing Room",
+            "channel_id": "1239315729887531120",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬Fight Entertainment▬▬",
+        "category_id": "",
+        "description": "*Need Role @Fight Entertainment",
+        "channels": [
+          {
+            "name": "🔱┃wwe-chat",
+            "channel_id": "1249766649641435226",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥊┃ufc-chat",
+            "channel_id": "1249766672437612624",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥊┃boxing-chat",
+            "channel_id": "1261341071124856892",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥊┃othersportfight-forum",
+            "channel_id": "1249766710978936912",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Collectibles▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Collectible",
+        "channels": [
+          {
+            "name": "🗽┃figure-chat",
+            "channel_id": "1239939085993513001",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🔥┃hotwheel-chat",
+            "channel_id": "1239921815560786023",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🚓┃miniscale-chat",
+            "channel_id": "1239921250747547799",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧩┃modelkit-chat",
+            "channel_id": "1249935383517593642",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💰┃fjb-collectible",
+            "channel_id": "1239921853733273651",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Collectible Room",
+            "channel_id": "1251984647731150950",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Otomotif▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Otomotif",
+        "channels": [
+          {
+            "name": "🪛┃otomotif-chat",
+            "channel_id": "1239317739827630100",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪛┃otomotif-forum",
+            "channel_id": "1239317763458338866",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Watch▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Watch",
+        "channels": [
+          {
+            "name": "⌚┃watch-chat",
+            "channel_id": "1239316874747969536",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "⌚┃watch-forum",
+            "channel_id": "1239316894897410120",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Pet Lover▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Pet Lover",
+        "channels": [
+          {
+            "name": "🐈┃pet-chat",
+            "channel_id": "1239316825997574246",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐈┃pet-forum",
+            "channel_id": "1239316843307602022",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Traveling▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Traveling",
+        "channels": [
+          {
+            "name": "🌄┃traveling-chat",
+            "channel_id": "1239316940347150486",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌄┃traveling-forum",
+            "channel_id": "1239316963725934784",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Workout▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Olahraga",
+        "channels": [
+          {
+            "name": "💪┃workout-chat",
+            "channel_id": "1239317318752927894",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💪┃workout-clip",
+            "channel_id": "1239317561888346323",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎾┃olahraga-forum",
+            "channel_id": "1239317348217913436",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Kuliner▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Kuliner",
+        "channels": [
+          {
+            "name": "🍔┃kuliner-chat",
+            "channel_id": "1238695442544590941",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🍔┃kuliner-forum",
+            "channel_id": "1238695504142143508",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🥗┃resep-chat",
+            "channel_id": "1238695722191290430",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🥗┃resep-forum",
+            "channel_id": "1239122269939437568",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Kuliner Room",
+            "channel_id": "1255929231578234880",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬▬Music▬▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Music",
+        "channels": [
+          {
+            "name": "🎸┃music-chat",
+            "channel_id": "1238587390998876221",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎸┃musician-chat",
+            "channel_id": "1238587468467671091",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎸┃music-bot",
+            "channel_id": "1238822362179440721",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎸┃music-forum",
+            "channel_id": "1238586640830824478",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Music Room",
+            "channel_id": "1238586498455175238",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Curhat▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Curhat",
+        "channels": [
+          {
+            "name": "💌┃curhat-chat",
+            "channel_id": "1238690985978888234",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💌┃curhat-forum",
+            "channel_id": "1238691055117799494",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Curhat Room",
+            "channel_id": "1238691263943807091",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Curhat Room",
+            "channel_id": "1238691356285861929",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Curhat Room",
+            "channel_id": "1278349320357412864",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Investasi▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Investasi",
+        "channels": [
+          {
+            "name": "🪙┃guide",
+            "channel_id": "1242193271770579245",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪙┃crypto-chat",
+            "channel_id": "1242193227612819566",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪙┃crypto-forum",
+            "channel_id": "1242193253126897755",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "💰┃economy-chat",
+            "channel_id": "1305422580383092776",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📜┃saham-chat",
+            "channel_id": "1242193305836589209",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🏡┃emas-properti-chat",
+            "channel_id": "1242193438430986395",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💵┃bisnis-umkm-chat",
+            "channel_id": "1242257956985110630",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📞┃Investasi Room",
+            "channel_id": "1302271750264066058",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Technology▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Technology",
+        "channels": [
+          {
+            "name": "💻┃tech-news",
+            "channel_id": "1238629419527049308",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💻┃hardware-chat",
+            "channel_id": "1238628954949160962",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💻┃software-chat",
+            "channel_id": "1238629247879479326",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💻┃programming-chat",
+            "channel_id": "1238629327818461215",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎮┃gamedev-chat",
+            "channel_id": "1239332972130467991",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💻┃programming-forum",
+            "channel_id": "1238629702839570455",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "💻┃technology-forum",
+            "channel_id": "1238629859945746554",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Tech Room",
+            "channel_id": "1238630260984119336",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Belajar▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Belajar",
+        "channels": [
+          {
+            "name": "🎒┃belajar-news",
+            "channel_id": "1357041963332931614",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎒┃belajar-chat",
+            "channel_id": "1239039485493248031",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🌏┃geology-chat",
+            "channel_id": "1273269925603053679",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎒┃belajar-forum",
+            "channel_id": "1239039598596722719",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📚┃buku-forum",
+            "channel_id": "1239057953546567790",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🌍┃language-forum",
+            "channel_id": "1239058153103163402",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃Belajar Room",
+            "channel_id": "1239039726267273257",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Belajar Room",
+            "channel_id": "1269668858143178782",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "📞┃Belajar Room",
+            "channel_id": "1352679062925082806",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Medical▬▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Medical",
+        "channels": [
+          {
+            "name": "💉┃medical-chat",
+            "channel_id": "1255138863547158648",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "💉┃medical-forum",
+            "channel_id": "1266365562389397584",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "📞┃ Medical Room",
+            "channel_id": "1280846200043737169",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬Creator Camp▬▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Creator Camp",
+        "channels": [
+          {
+            "name": "🤝┃creator-chat",
+            "channel_id": "1239317001823064094",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🤝┃creator-forum",
+            "channel_id": "1239317023935430676",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🎨┃design-chat",
+            "channel_id": "1239317044986646528",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎨┃design-forum",
+            "channel_id": "1239317065601515611",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "🔊┃audio-chat",
+            "channel_id": "1289850920703758378",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📸┃editor-chat",
+            "channel_id": "1239317080935764063",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "📸┃editor-forum",
+            "channel_id": "1239317099743281192",
+            "description": "",
+            "type": "Forum Channel"
+          },
+          {
+            "name": "✅┃promosi",
+            "channel_id": "1239846608447995954",
+            "description": "",
+            "type": "Text Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬Lowongan Kerja▬▬▬",
+        "category_id": "",
+        "description": "*Need Role @Lowogan Kerja",
+        "channels": [
+          {
+            "name": "👷┃loker-chat",
+            "channel_id": "1239055684683960381",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "👷┃loker-forum",
+            "channel_id": "1239055916070862928",
+            "description": "",
+            "type": "Forum Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Lounge▬▬▬▬▬",
+        "category_id": "",
+        "description": "",
+        "channels": [
+          {
+            "name": "🍿┃Theater Room",
+            "channel_id": "1236296336094138450",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🔴┃Live Room",
+            "channel_id": "1236296386727772161",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🦜┃Podcast Room",
+            "channel_id": "1267517468641857607",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "👻┃Horror Room",
+            "channel_id": "1238694662903038002",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "👒┃One Piece Episode 1129",
+            "channel_id": "1236296450632187935",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "👹┃Sukuna Room",
+            "channel_id": "1236296760800837673",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🍥┃Naruto Room",
+            "channel_id": "1236297623913107466",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "👒┃Luffy Room",
+            "channel_id": "1236297692016152596",
+            "description": "",
+            "type": "Voice Channel"
+          },
+          {
+            "name": "🍀┃Clover Room",
+            "channel_id": "1236297729244794951",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬Music Practice Room▬▬",
+        "category_id": "",
+        "description": "",
+        "channels": [
+          {
+            "name": "🎸┃guide",
+            "channel_id": "1307906255796437072",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🎸┃Music Practice Room",
+            "channel_id": "1236939236033171476",
+            "description": "",
+            "type": "Voice Channel"
+          }
+        ]
+      },
+      {
+        "name": "▬▬▬▬▬Arcade▬▬▬▬▬",
+        "category_id": "",
+        "description": "",
+        "channels": [
+          {
+            "name": "🎮┃select-games",
+            "channel_id": "1239505852285583440",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🐳┃owo",
+            "channel_id": "1239506082330705940",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🪵┃idle-miner",
+            "channel_id": "1239506044523380816",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🧌┃epic-rpg",
+            "channel_id": "1239563470496858112",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦄┃mudae-pvp",
+            "channel_id": "1239506100307496990",
+            "description": "",
+            "type": "Text Channel"
+          },
+          {
+            "name": "🦄┃mudae-solo",
+            "channel_id": "1245746461984161933",
+            "description": "",
+            "type": "Text Channel"
           }
         ]
       }
